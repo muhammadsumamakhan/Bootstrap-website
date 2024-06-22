@@ -1,0 +1,340 @@
+a{
+    text-decoration: none;
+    color: white;
+}
+
+/* ===================(navbar started)=================== */
+header {
+    background-color: #000000;
+    width: 100%;
+    /* position: fixed; 
+    top: 0; 
+    z-index: 1000; */
+    border-bottom: 5px solid #ed1c24;
+}
+.logo{
+    width: 165px;
+    cursor: pointer;
+}
+.nav-text{
+    font-size: 15px;
+    font-weight: 300;
+}
+.franchise{
+    background-color: transparent;
+    color: white;
+    border: 1px solid white;
+    padding: 15px 25px;
+    border-radius: 25px;
+}
+.order-btn{
+    background-color: #ed1c24;
+    color: #ffffff;
+    border: none;
+    padding: 15px 25px;
+    border-radius: 25px;
+}
+.arrow-icon{
+    color: #ed1c24;
+    background-color: #ffffff;
+    padding: 5px 5px;
+    border-radius: 20px;
+    margin-left: 5px;
+}
+/* ===================(navbar ended)=================== */
+
+
+/* ===================(container started)=================== */
+.container{
+    width: 100%;
+    cursor: pointer;
+}
+/* ===================(container ended)=================== */
+
+
+/* ===================(section(1) started)=================== */
+.section-1-h2{
+    font-size: 47px;
+    font-family: "Ubuntu Sans Mono", monospace;
+    font-weight: lighter;
+    /* color: #ffffff; */
+}
+.section-1-p{
+    font-size: 18px;
+    /* color: #ffffff; */
+}
+
+.Saltn_Pepper{
+    font-family: "Lilita One", sans-serif;
+  font-weight: 400;
+  font-size: larger;
+  font-style: normal;
+}
+
+.section-1_picutre{
+    /* margin: 0px 10px; */
+    margin: 0px 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.section-1_pic{
+    border-radius: 5px;
+    width: 250px;
+    height: 140px;
+    padding: 20px 15px;
+    cursor: pointer;
+}
+.section-1_picutre-btn{
+    margin-top: 20px;
+    background-color: transparent;
+    color: #ffffff;
+    border: 1px solid #ffffff;
+    padding: 15px 45px;
+    border-radius: 25px;
+    cursor: pointer;
+    font-size: medium;
+}
+/* ===================(section(1) ended)=================== */
+
+
+/* ===================(section(2) started)=================== */
+.section-2-SD-inner{
+    /* border: #000000 solid 2px; */
+    width: 500px;
+    padding-left: 5px;
+}
+.section-2-h2{
+    font-size: 31px;
+    font-weight: lighter;
+    margin-bottom: 25px;
+ 
+}
+
+.section-2-span{
+    font-weight:900;
+    
+}
+.section-2-p{
+    font-size: 15px;
+    color: #b7b7b7;
+    padding-bottom: 10px;
+}
+
+.fa-map-marker{
+    color: #b7b7b7;
+    
+}
+.fa-phone{
+    color: #b7b7b7;
+}
+.section-2-bn{
+    background-color:transparent;
+    color: #ffffff;
+    background-color: transparent;
+    border: 1px solid white;
+    padding: 12px 30px;
+    border-radius: 25px;
+    margin: 40px 0px;
+    cursor: pointer;
+}
+/* ===================(section(2) ended)=================== */
+
+
+/* ===================(section(3) started)=================== */
+.section-3-SD-inner{
+    border: #000000 solid 2px;
+    width: 370px;
+    
+}
+.section-3-img{
+    width: 360px;
+    height: 250px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+}
+.section-3-p{
+    font-size: 15px;
+    color: #b7b7b7;
+    margin-bottom: 15px;
+}
+.section-3-span{
+    font-weight:900;
+    /* font-size: 30px; */
+    
+}
+.section-3-h2{
+    font-size: 25px;
+    font-weight: lighter;
+    margin-bottom: 15px;
+}
+.section-3-bn{
+    background-color:transparent;
+    color: #ffffff;
+    background-color: transparent;
+    border: 1px solid #ffffff;
+    padding: 12px 30px;
+    border-radius: 25px;
+    margin-top: 20px;
+    margin-bottom: 30px ;
+    cursor: pointer;
+}
+/* ===================(section(3) ended)=================== */
+
+
+
+/* ===================(section(4) started)===================  */
+.section-4-SD-inner{
+    /* border: #000000 solid 2px; */
+    width: 600px;
+    padding-left: 5px;
+    height: 380px;
+    padding: 90px 0px;
+}
+
+.section-3-h1{
+    font-size: large;
+}
+
+.section-4-bn{
+    background-color: #28a745;;
+    color: #ffffff;
+    border: 1px solid #28a745;  
+    padding: 12px 25px;
+    border-radius: 25px;
+    margin: 40px 0px;
+    cursor: pointer;
+}
+.arrow-icon-G{
+    color: #28a745;
+    background-color: #ffffff;
+    padding: 5px 5px;
+    border-radius: 20px;
+    margin-left: 5px;
+}
+/* ===================(section(4) ended)===================  */
+
+
+
+/* ===================(section(5) started)===================  */
+.section-5-SD-inner{
+    border-radius: 5px;
+    width: 350px;
+    height: 235px;
+    
+    
+}
+.section-5-img{
+    width: 56px;
+    height: 56px;
+    margin: 18px 0px;
+}
+.social_feed{
+    margin: 70px 0px 40px 0px;
+}
+.social_feed>h1{
+    font-size: 35px;
+    font-family: "Playfair Display", serif;
+}
+.Social-Feed-images{
+    cursor: pointer;
+}
+/* ===================(section(5) ended)===================  */
+
+
+/* ===================(footer started)================= */
+.footer-SD-inner-div1{
+    /* border: #000000 solid 2px; */
+    width: 400px;
+    
+    
+}
+.footer-p1{
+    font-size: 17px;
+    color: #b7b7b7;
+    padding-bottom: 10px;
+    margin: 30px 0px;
+}
+.footer-p2{
+    font-size: 17px;
+    color: #b7b7b7;
+    padding-bottom: 10px; 
+}
+.footer-p2>span{
+    padding-left: 15px;
+}
+
+.footer-h1{
+    font-size: 17px;
+    font-family: "Playfair Display", serif;
+    padding-left: 20px;
+    
+    
+}
+.footer-ul{
+    font-size: 17px;
+    color: #b7b7b7;
+    cursor: pointer;
+    font-family: "Playfair Display", serif;
+    list-style: none;
+    
+    
+}
+.footer-ul>li{
+    margin: 20px;
+}
+.footer-SD-inner-div2{
+    /* border: #000000 solid 2px; */
+    width: 200px;
+    
+}
+.footer-SD-inner-div3{
+    /* border: #000000 solid 2px; */
+    width: 280px;
+    
+}
+.footer-SD-inner-div4{
+    /* border: #000000 solid 2px; */
+    width: 200px;
+    
+}
+.social-icon{
+    background-color: #ed1c24;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 12px 12px;
+    border-radius: 50px;
+    margin-top: 20px;
+    margin-left: 13px;
+    cursor: pointer;   
+}
+/* .fa-instagram {
+    background-color: #ed1c24;
+    color: #ffffff;
+    font-size: 20px;
+    border-radius: 50px;
+    padding: 12px 12px;
+} */
+.footer-padding{
+    padding: 70px 70px;
+}
+
+.text-end{
+    text-align: end;
+    padding: 10px 100px 10px 0px;
+    font-size:8px;
+    color: #b7b7b7;
+    cursor: pointer;
+    font-family: "Playfair Display", serif;
+
+}
+
+/* .top-arrow{
+    background-color: transparent;
+    border: 1px solid #b7b7b7;
+    width: 35px;
+    height: 30px;
+    padding: 30px 10px;
+    cursor: pointer;   
+} */
+/* ===================(footer ended)=================== */
